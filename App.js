@@ -72,10 +72,10 @@ function App() {
     </main><br></br>
     <body>
       <h1>
-        Heyy All, My Name is Sanskar Sinha
+        Heyy All, My Name is Vivek Pathak
       </h1>
       <h2>
-        Currently pursuing B.Tech CSE from VIT Bhopal University.
+        Currently pursuing B.Tech CSE (Gaming Technology) from VIT Bhopal University.
       </h2>
       <img src="https://admission.vitbhopal.ac.in/wp-content/uploads/2022/12/vit.jpg" height="300px" width="500px"/>
       <h2>Looking forward to become a MERN Stack Developer</h2>
